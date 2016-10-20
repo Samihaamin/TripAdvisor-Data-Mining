@@ -18,7 +18,7 @@ The goal of the assignment was to find and analyze interesting patterns in the d
 
 ##Technologies used
 * SQL for Data Analytics
-* Tableu for visualization and Data Optimization
+* Tableau for visualization and Data Optimization
 
 ##Presentation Slides
 ![alt tag](https://github.com/Samihaamin/Discovery-Challenge-Trip-Advisor/blob/master/User%20Bias.png)
