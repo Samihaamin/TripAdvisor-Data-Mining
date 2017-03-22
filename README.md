@@ -1,7 +1,7 @@
 # Discovery-Challenge-Trip-Advisor
 
 ##Details
-This was an assignment for CS336: Principles of Information and Databases, which provided real data from TripAdvisors.com for restaurants in  Gdansk, Poland having rankings of top 60 resturants in the area, their scores, average number of stars awarded by reviewers etc. 
+This data analysis was done using real data from TripAdvisors.com for restaurants in  Gdansk, Poland having rankings of top 60 resturants in the area, their scores, average number of stars awarded by reviewers etc. 
 
 Database Scheme:
 * Restaurant (name)
